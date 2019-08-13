@@ -9,3 +9,7 @@ This program has a logic to restrict email id to specific domain for example: "@
 	- update toEmail, ccEmail, bccEmail to known email ids for test
 	- update EmailUtil.sendEmail() with the right domain you want to restrict to.
 4. You may want to modify the code to support SSL, email with attachments etc..
+
+
+Note: I took source libraries from https://www.journaldev.com/2532/javamail-example-send-mail-in-java-smtp
+This code may not be used for commercial.
